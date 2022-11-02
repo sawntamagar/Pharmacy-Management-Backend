@@ -1,0 +1,6 @@
+_SUCCESS_REGISTER_MESSAGE = "Account has registered sucessfully... please activate your account"
+_EMAIL_VERIFIED="email has been verified.. your account is verified now"
+_INVALID_TOKEN_LINK = "The link is invalid or expired"
+_PASSWORD_RESET_EMAIL_SENT = "An email has been sent with instructions to reset your pasword"
+_PASSWORD_CHANGED = "your password has been changed-"
+_SUCCESS_PROFILE_SETUP = "profile setup successfully"
